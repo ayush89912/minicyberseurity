@@ -1,0 +1,7 @@
+flask
+lightgbm
+psutil
+scapy
+keras
+numpy
+gunicorn
